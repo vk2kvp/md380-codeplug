@@ -8,6 +8,13 @@ Before you use these codeplugs, replace the callsign and DMR ID with your own in
 
 Get G6AMU's codeplug editor from http://www.miklor.com/MD380/380-CPEditor.php
 
+<b>Release Notes - MD390_All_AU_DMR+analog+CB_v0.4</b>
+- Fixed VK6RGF changed channel list to Brandmeister network
+- Added Zone and Scan List for VK3RBA
+- Added Zones for CB41-56 and CB54-80
+- Added repeaters: VK2RTH, VK4RBK, VK6ZTG, 
+- Removed unused Contact Groups
+
 <b>Release Notes - MD390_All_AU_DMR+analog+CB_v0.3</b>
 - Fixed scan lists for 6RDM & 6RLM
 - Added DMR+ 4xxx and 9x TGs to Digital Contacts
