@@ -10,7 +10,7 @@ This was originally developed by Matt, VK2MRC for the Goulburn and Southern High
 
 439.200 is assigned for digital simplex operation.
 
-<b>UHF CB Channels.</b> Note that these radios are not type approved for UHF CB. These frequencies are included in Receive-only mode. 
+<b>UHF CB Channels.</b> Note that these radios are not type approved for UHF CB transmision. These frequencies are included in Receive-only mode. 
 
 Before you use these codeplugs, replace the callsign and DMR ID with your own in General settings.
 
