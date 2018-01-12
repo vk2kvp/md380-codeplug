@@ -7,6 +7,7 @@ This was originally developed by Matt, VK2MRC for the Goulburn and Southern High
 <b>Hotspot/Dongle Frequencies:</b> Australian band plan assigns the following 70cm frequencies for Internet gateways:
 - 439.129 & 
 - 439.250
+
 439.200 is assigned for digital simplex operation.
 
 <b>UHF CB Channels.</b> Note that these radios are not type approved for UHF CB. These frequencies are included in Receive-only mode. 
