@@ -5,7 +5,7 @@ Comprehensive Australian codeplugs for TYT MD-380 and MD-390
 This was originally developed by Matt, VK2MRC for the Goulburn and Southern Highlands Amateur Radio Club. Anyone building on this Codeplug or forking, please acknowledge Matt VK2MRC and Det VK2KVP
 
 <b>Hotspot/Dongle Frequencies:</b> Australian band plan assigns the following 70cm frequencies for Internet gateways:
-- 439.129 & 
+- 439.125 
 - 439.250
 
 439.200 is assigned for digital simplex operation.
