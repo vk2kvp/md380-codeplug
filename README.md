@@ -12,8 +12,7 @@ This was originally developed by Matt, VK2MRC for the Goulburn and Southern High
 
 <b>UHF CB Channels.</b> Note that these radios are not type approved for UHF CB transmision. These frequencies are included in Receive-only mode. 
 
-Before you use these codeplugs, replace the callsign and DMR ID with your own in General settings.
-
+<b>To use these Codeplugs:</b> Before you write these codeplugs to your radio, replace the callsign and DMR ID with your own in General settings.
 Get G6AMU's codeplug editor from http://www.miklor.com/MD380/380-CPEditor.php
 
 <b>Release Notes - MD390_All_AU_DMR+analog+CB_v0.4</b>
