@@ -16,6 +16,7 @@ This was originally developed by Matt, VK2MRC for the Goulburn and Southern High
 - MD390 with GPS and new vocoder
 - MD380 with GPS and new vocoder
 - MD380 without GPS and new vocoder
+
 All editing was conducted with G6AMU's codeplug editor. The codeplug was uploaded to each test transceiver using TYT's CPS software "MD-380G WO GPS v1.36". 
 
 <b>To use these Codeplugs:</b> Before you write these codeplugs to your radio, replace the callsign and DMR ID with your own in General settings.
