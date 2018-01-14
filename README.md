@@ -12,8 +12,15 @@ This was originally developed by Matt, VK2MRC for the Goulburn and Southern High
 
 <b>UHF CB Channels.</b> Note that these radios are not type approved for UHF CB transmision. These frequencies are included in Receive-only mode. 
 
+<b>Testing</b> Note that these codeplugs have only been tested on the following handhelds with the TYT-Toolz firmware loaded:
+- MD390 with GPS and new vocoder
+- MD380 with GPS and new vocoder
+- MD380 without GPS and new vocoder
+All editing was conducted with G6AMU's codeplug editor. The codeplug was uploaded to each test transceiver using TYT's CPS software "MD-380G WO GPS v1.36". 
+
 <b>To use these Codeplugs:</b> Before you write these codeplugs to your radio, replace the callsign and DMR ID with your own in General settings.
-Get G6AMU's codeplug editor from http://www.miklor.com/MD380/380-CPEditor.php
+- Get G6AMU's codeplug editor from http://www.miklor.com/MD380/380-CPEditor.php
+- KG5RKI's TyMD380Toolz application is available at https://kg5rki.com/new2/tymd380.html
 
 <b>Release Notes - MD390_All_AU_DMR+analog+CB_v0.4</b>
 - Fixed VK6RGF changed channel list to Brandmeister network
