@@ -5,8 +5,10 @@ Comprehensive Australian codeplugs for TYT MD-380 and MD-390
 This was originally developed by Matt, VK2MRC for the Goulburn and Southern Highlands Amateur Radio Club. Anyone building on this Codeplug or forking, please acknowledge Matt VK2MRC and Det VK2KVP
 
 <b>Hotspot/Dongle Frequencies:</b> Australian band plan assigns the following 70cm frequencies for Internet gateways:
-- 439.125 
-- 439.250
+- 439.125 (used for the DV4 channels to suit DV4mini)
+- 439.1375 (not allocated, but used in this codeplug for Z1 channels ZUMspot or CHINspot)
+- 439.150 (used for the DVm channels to suit DVmega and other MMDVM hotspots.)
+- 439.1775 (not allocated, but used in this codeplug for Z2 channels ZUMspot or CHINspot)
 
 439.200 is assigned for digital simplex operation.
 
@@ -22,6 +24,12 @@ All editing was conducted with G6AMU's codeplug editor. The codeplug was uploade
 <b>To use these Codeplugs:</b> Before you write these codeplugs to your radio, replace the callsign and DMR ID with your own in General settings.
 - Get G6AMU's codeplug editor from http://www.miklor.com/MD380/380-CPEditor.php
 - KG5RKI's TyMD380Toolz application is available at https://kg5rki.com/new2/tymd380.html
+
+<b>Release Notes - MD390_All_AU_DMR+analog+CB_v0.5</b>
+- Changed frequency for DVmega channels to 439.150MHz
+- Changed channel names for DV4mini DMR+ reflectors to include talkgroup mapping.
+- Added Z1 channels on 439.1375 for ZUMspot or CHINspot 1
+- Added Z2 channels on 439.1775 for ZUMspot or CHINspot 2
 
 <b>Release Notes - MD390_All_AU_DMR+analog+CB_v0.4</b>
 - Fixed VK6RGF changed channel list to Brandmeister network
