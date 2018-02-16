@@ -25,6 +25,11 @@ All editing was conducted with G6AMU's codeplug editor. The codeplug was uploade
 - Get G6AMU's codeplug editor from http://www.miklor.com/MD380/380-CPEditor.php
 - KG5RKI's TyMD380Toolz application is available at https://kg5rki.com/new2/tymd380.html
 
+<b>Release Notes - MD390_All_AU_DMR+analog+CB_v0.6</b>
+- Removed Z2 channel set- Moved Z1 channel set to near top of list to aggregate hotspot channels
+- Added DVmega and DV4mini Zones to differentiate the hotspots
+- Added DMR+ reflectors 4850 (NZ), DCS001V & DSC001X to DV4mini zone and reflectors 4802 NSW, 4805 SA to DVmega & ZUMspot Zones.  Ref for D-star gateway connection using Pi-star at https://dmr-quebec.groups.io/g/DMR-Quebec/attachment/571/0/Connecting%20your%20DMR%20radio%20to%20D_Star%20Rev1a.pdf
+
 <b>Release Notes - MD390_All_AU_DMR+analog+CB_v0.5</b>
 - Changed frequency for DVmega channels to 439.150MHz
 - Changed channel names for DV4mini DMR+ reflectors to include talkgroup mapping.
