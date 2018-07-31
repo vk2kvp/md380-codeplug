@@ -26,6 +26,7 @@ All editing was conducted with G6AMU's codeplug editor. The codeplug was uploade
 
 <b>Release Notes - MD380-80_All_AU_DMR+analog+CB_v13</b>
 - Created Digital Rx Group for each Digital Contacts talk group and assigned corresponding Rx Group for each Digital Contact. This is to avoid other talk groups breaking through on a QSO. Promiscuous mode can be used to monitor multiple TGs.
+- Removed channels with private calls which were intended for changing DMR+ reflectors. This is better done using direct entry or programmed speed dial.
 
 <b>Release Notes - MD390_All_AU_DMR+analog+CB_v0.6</b>
 - Removed Z2 channel set- Moved Z1 channel set to near top of list to aggregate hotspot channels
