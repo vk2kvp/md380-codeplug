@@ -24,6 +24,22 @@ All editing was conducted with G6AMU's codeplug editor. The codeplug was uploade
 - Get G6AMU's codeplug editor from http://www.miklor.com/MD380/380-CPEditor.php
 - KG5RKI's TyMD380Toolz application is available at https://kg5rki.com/new2/tymd380.html
 
+<b>Using Reflectors for DMR+ on MMDVM Repeaters.<b>
+  As with MMDVM hotspots, When using MMDVM repeaters to connect to DMR Plus talkgroups, use TG8. Then to change reflectors, enter the Private Call reflector code and transmit for a few seconds. An announcement through the DMR Gateway will confirm the active reflector. For convenience, this codeplug includes programming of the keypad fast dial keys as follows Key0->4800 (linked to VK-DRM TG505), Key1->4801 (linked to VK-DMR TG3801), Key2->4802 (linked to VK-DMR TG3802), and so on up to key 7, then Key8->4851 (linked to VK-DMR TG3851 NZ) and Key9->4000 Reflector Disconnect.
+
+<b>Release Notes - MD380-80_All_AU_DMR+analog+CB_v15</b>
+- Added VK-DMR repeaters: VK2RWI, VK4RBT, VK4RLU, VK4RSL, VK6RPT, VK6RLX, VK2RYS
+- Renamed DMR channels with prefix of repeater call sign
+- Renamed Brandmeister talk groups with prefix bm
+- Removed Brandmeister repeaters not on repeater status list at http://125.63.63.112/status/list.htm as at 02Aug18
+- Removed listings for callsigns not registered with ACMA as repeaters.
+- Added XLS file listing repeaters included in this codeplug.
+
+
+<b>Release Notes - MD380-80_All_AU_DMR+analog+CB_v13</b>
+
+
+
 <b>Release Notes - MD380-80_All_AU_DMR+analog+CB_v13</b>
 - Created Digital Rx Group for each Digital Contacts talk group and assigned corresponding Rx Group for each Digital Contact. This is to avoid other talk groups breaking through on a QSO. Promiscuous mode can be used to monitor multiple TGs.
 - Removed channels with private calls which were intended for changing DMR+ reflectors. This is better done using direct entry or programmed speed dial.
