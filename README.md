@@ -24,7 +24,7 @@ All editing was conducted with G6AMU's codeplug editor. The codeplug was uploade
 - Get G6AMU's codeplug editor from http://www.miklor.com/MD380/380-CPEditor.php
 - KG5RKI's TyMD380Toolz application is available at https://kg5rki.com/new2/tymd380.html
 
-<b>Using Reflectors for DMR+ on MMDVM Repeaters.<b>
+<b>Using Reflectors for DMR+ on MMDVM Repeaters.</b>
   As with MMDVM hotspots, When using MMDVM repeaters to connect to DMR Plus talkgroups, use TG8. Then to change reflectors, enter the Private Call reflector code and transmit for a few seconds. An announcement through the DMR Gateway will confirm the active reflector. For convenience, this codeplug includes programming of the keypad fast dial keys as follows Key0->4800 (linked to VK-DRM TG505), Key1->4801 (linked to VK-DMR TG3801), Key2->4802 (linked to VK-DMR TG3802), and so on up to key 7, then Key8->4851 (linked to VK-DMR TG3851 NZ) and Key9->4000 Reflector Disconnect.
 
 <b>Release Notes - MD380-80_All_AU_DMR+analog+CB_v15</b>
