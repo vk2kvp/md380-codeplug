@@ -35,11 +35,6 @@ All editing was conducted with G6AMU's codeplug editor. The codeplug was uploade
 - Removed listings for callsigns not registered with ACMA as repeaters.
 - Added XLS file listing repeaters included in this codeplug.
 
-
-<b>Release Notes - MD380-80_All_AU_DMR+analog+CB_v13</b>
-
-
-
 <b>Release Notes - MD380-80_All_AU_DMR+analog+CB_v13</b>
 - Created Digital Rx Group for each Digital Contacts talk group and assigned corresponding Rx Group for each Digital Contact. This is to avoid other talk groups breaking through on a QSO. Promiscuous mode can be used to monitor multiple TGs.
 - Removed channels with private calls which were intended for changing DMR+ reflectors. This is better done using direct entry or programmed speed dial.
