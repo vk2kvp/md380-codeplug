@@ -848,7 +848,6 @@ VK5RSB Sumrtn,Analogue,439.90000,434.90000, 1,1,None,None,Analog Ade +DMR,None,9
 VK5RSC MtTrble,Analogue,438.07500,433.07500, 1,1,None,None,Analog Ade +DMR,None,None,Normal,Low,12.5KHz,No,No, 5, 12,0,0,0,0,0, 225, 195, 1,0, 255, 255, 255
 VK5ROC LowrLght,Analogue,439.95000,434.95000, 1,1,None,None,Analog Ade +DMR,None,None,Normal,High,12.5KHz,No,No, 36, 12,0,0,0,0,0, 224, 195, 1,0, 255, 255, 255
 VK5RSA Adelaide,Analogue,438.02500,433.02500, 1,1,None,None,Analog Ade +DMR,None,None,Normal,High,12.5KHz,No,No, 36, 12,0,0,0,0,0, 224, 195, 1,0, 255, 255, 255
-VK5ZSN Balloon,Analogue,439.90000,434.90000, 1,1,None,None,Analog Ade +DMR,None,None,Normal,Low,12.5KHz,No,No, 5, 12,0,0,0,0,0, 225, 195, 1,0, 255, 255, 255
 VK5RLZ Elizabht,Analogue,439.97500,434.34975, 1,1,None,None,Analog Ade +DMR,None,91.5,Normal,Low,12.5KHz,No,No, 5, 12,0,0,0,0,0, 225, 195, 1,0, 255, 255, 255
 CB01 dup,Analogue,476.42500,477.17500, 1,1,None,None,None,None,None,Normal,High,12.5KHz,Yes,No, 36, 12,0,0,0,0,0, 224, 195,0,0, 255, 255, 255
 CB02 dup,Analogue,476.45000,477.20000, 1,1,None,None,None,None,None,Normal,High,12.5KHz,Yes,No, 36, 12,0,0,0,0,0, 224, 195,0,0, 255, 255, 255
