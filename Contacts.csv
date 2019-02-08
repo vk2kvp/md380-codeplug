@@ -1,7 +1,6 @@
 Contact Name,ID,ID Type,Receive Tone
 ALL Calls, 1677215,Group,Off
 TG1 WW, 1,Group,Off
-TG5 VK Nets, 5,Group,Off
 TG6 DStar Refl, 6,Group,Off
 TG8 StateLnkd, 8,Group,Off
 TG9 Local, 9,Group,Off
@@ -16,7 +15,6 @@ TG153 DMR+Sth P, 153,Group,Off
 PRIVATE, 351,Group,Off
 TG:505 VK, 505,Group,Off
 TAXI GN, 950,Group,Off
-TG3800 AU, 3800,Group,Off
 TG3801 ACT, 3801,Group,Off
 TG3802 NSW, 3802,Group,Off
 TG3803 Vic, 3803,Group,Off
@@ -24,10 +22,9 @@ TG3804 Qld, 3804,Group,Off
 TG3805 SA, 3805,Group,Off
 TG3806 WA, 3806,Group,Off
 TG3807 TAS, 3807,Group,Off
-TG3808 VK8, 3808,Group,Off
-TG3809 VK9, 3809,Group,Off
-Reflctr Discnct, 4000,Unknown,Off
-Rpt Status, 5000,Unknown,Off
+TG3808 NT, 3808,Group,Off
+TG3809, 3809,Group,Off
+TG3810 AU, 3810,Group,Off
 bm91 WW, 91,Group,Off
 bm913 WWE, 913,Group,Off
 bm923 EU E, 923,Group,Off
@@ -40,60 +37,32 @@ bm5054 QLD, 5054,Group,Off
 bm5055 SA, 5055,Group,Off
 bm5056 WA, 5056,Group,Off
 bm5057 Tas, 5057,Group,Off
+bm5058 NT, 5058,Group,Off
 bm50599 YSF-NXDS, 50599,Group,Off
 bm505001 Local, 505001,Group,Off
 bm50566 WICEN, 50566,Group,Off
 bm26204, 26204,Group,Off
 bm31665, 31665,Group,Off
+Reflctr Discnct, 4000,Private,Off
+Rpt Status, 5000,Private,Off
 ref4581 tg133 US, 4639,Private,Off
 ref4404 tg143 UK, 4404,Private,Off
-ref4851 tg153 SP, 4851,Unknown,Off
-ref4800 tg3800, 4800,Unknown,Off
-ref4801 tg3801, 4801,Unknown,Off
-ref4802 tg3802, 4802,Unknown,Off
-ref4803 tg3803, 4803,Unknown,Off
-ref4804 tg3804, 4804,Unknown,Off
-ref4805 tg3805, 4805,Unknown,Off
-ref4806 tg3806, 4806,Unknown,Off
-ref4807 tg3807, 4807,Unknown,Off
-ref4850 tg3850, 4850,Unknown,Off
-ref4851 tg3851, 4851,Unknown,Off
-ref4444 DCS001X, 4444,Unknown,Off
-ref4706 DCS001V, 4706,Unknown,Off
+ref4851 tg153 SP, 4851,Private,Off
+ref4800 tg3800, 4800,Private,Off
+ref4801 tg3801, 4801,Private,Off
+ref4802 tg3802, 4802,Private,Off
+ref4803 tg3803, 4803,Private,Off
+ref4804 tg3804, 4804,Private,Off
+ref4805 tg3805, 4805,Private,Off
+ref4806 tg3806, 4806,Private,Off
+ref4807 tg3807, 4807,Private,Off
+ref4850 tg3850, 4850,Private,Off
+ref4851 tg3851, 4851,Private,Off
+ref4444 DCS001X, 4444,Private,Off
+ref4706 DCS001V, 4706,Private,Off
 XLX unlink, 64000,Private,Off
 XLX313 link, 64001,Private,Off
 XLX313 B link, 64002,Private,Off
 XLX313 C link, 64003,Private,Off
 XLX313 D link, 64004,Private,Off
 XLX313 E link, 64005,Private,Off
-VK2AWS, 5052403,Private,On
-VK2DTW, 5052311,Private,On
-VK2HJ, 5052247,Private,On
-VK2IJ, 5052324,Private,On
-VK2JDW Lewis, 5052080,Private,On
-VK2JUZ, 5052300,Private,On
-VK2KVP Det, 5052359,Private,On
-VK2MCA, 5052011,Private,On
-VK2MCA/M, 5052097,Private,On
-VK2MCA/P, 5052041,Private,On
-VK2MRC, 5052073,Private,On
-VK2PET Pete, 5052365,Private,On
-VK2PGK Graeme, 5053161,Private,On
-VK2SI Fred, 5052405,Private,On
-VK2VCR, 5052325,Private,On
-VK2YHX Spero, 5052094,Private,On
-VK2YMC, 5052323,Private,On
-VK3FJC Guill, 5053214,Private,On
-VK3HDX Don, 5053275,Private,On
-VK3JMA Mark, 5053123,Private,On
-VK3PKG, 5053161,Private,On
-VK4MAC Brendan, 5054192,Private,On
-VK4TIM Tim, 5054033,Private,On
-VK4TUX, 5054035,Private,On
-VK5GS , 5055048,Private,On
-VK5TT Tony, 5055051,Private,On
-VK6LD Robert, 5056006,Private,On
-VK6LS Stuart, 5053214,Private,On
-VK7WP Ross, 5057068,Private,On
-VK4RT Bob, 5054078,Private,On
-5054078,Private,On
