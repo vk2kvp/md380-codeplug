@@ -49,6 +49,26 @@ You can also edit these codeplugs using your favourite spreadsheet application a
 <b>Using Reflectors for DMR+ on MMDVM Repeaters.</b>
 As with MMDVM hotspots, When using MMDVM repeaters to connect to DMR Plus talkgroups, use TG8. Then to change reflectors, enter the Private Call reflector code and transmit for a few seconds. An announcement through the DMR Gateway will confirm the active reflector. For convenience, this codeplug includes programming of the keypad fast dial keys as follows Key0->4800 (linked to VK-DRM TG505), Key1->4801 (linked to VK-DMR TG3801), Key2->4802 (linked to VK-DMR TG3802), and so on up to key 7, then Key8->4851 (linked to VK-DMR TG3851 NZ) and Key9->4000 Reflector Disconnect.
 
+<Release Notes - MD380-80_All_AU_DMR+analog_v20</b> This is a complete re-write of the codeplug with the addition of mumerous new VK-DMR repeaters. Click on the zones.cvs file for a list of all the repeaters included in this release. The UHF CB channels have been deleted to provide space for the new VK-DMR repeaters and include 16 channels for each.
+
+For each of the VK-DMR repeaters, the following channels have been included:
+01 - 3801 ACT
+02 - 3802 NSW
+03 - 3803 Vic
+04 - 3804 Qld
+05 - 3805 SA
+06 - 3806 WA
+07 - 3807 Tas
+08 - 3808 NT
+09 - 3809 s1
+10 - 505 AU
+11 - 113 WW User activated 1
+12 - 123 WW User activated 3
+13 - 13 WWE
+14 - 3810 s1
+15 - 9 s1
+16 - 8 s1
+
 <b>Release Notes - MD380-80_All_AU_DMR+analog+CB_v15</b>
 - Added VK-DMR repeaters: VK2RWI, VK4RBT, VK4RLU, VK4RSL, VK6RPT, VK6RLX, VK2RYS
 - Renamed DMR channels with prefix of repeater call sign
