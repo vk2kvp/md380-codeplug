@@ -69,6 +69,8 @@ For each of the VK-DMR repeaters, the following channels have been included:
 15 - 9 s1
 16 - 8 s1
 
+For MMDVM Hotspots, I have cerated four Zones "HS-S vkdmr", "HS-S BM", "HS-D vkdmr" and "HS-D BM".  Channels in the "HS-S vkdmr" and ""HS-D vkdmr" zones are configured to optimally perform with the VK-DMR network servers, as discussed by Roger Clark at https://www.rogerclark.net/new-australian-dmr-ipsc2-settings/ 
+
 <b>Release Notes - MD380-80_All_AU_DMR+analog+CB_v15</b>
 - Added VK-DMR repeaters: VK2RWI, VK4RBT, VK4RLU, VK4RSL, VK6RPT, VK6RLX, VK2RYS
 - Renamed DMR channels with prefix of repeater call sign
