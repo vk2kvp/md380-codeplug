@@ -62,7 +62,7 @@ VK7RCR,'7RCR 3808 NT,'7RCR 13 WWE,'7RCR 8 s1,'7RCR 3809 s1,'7RCR 9 s1,'7RCR 113 
 VK7RJD Launcestn,'7RJD 3801 ACT,'7RJD 3802 NSW,'7RJD 3803 Vic,'7RJD 3804 Qld,'7RJD 3805 SA,'7RJD 3806 WA,'7RJD 3807 Tas,'7RJD 3808 NT,'7RJD 3809 s1,'7RJD 505,'7RJD 113 UA,'7RJD 123 UA,'7RJD 13 WWE,'7RJD 3810 s1,'7RJD 8 s1,'7RJD 9 s1,,,,,,,,,,,,,,,,None,None,Last, 20, 8,
 VK8RPT,'8RPT 3801 ACT,'8RPT 8 s1,'8RPT 9 s1,'8RPT 3807 Tas,'8RPT 13 WWE,'8RPT 113 UA,'8RPT 123 UA,'8RPT 3804 Qld,'8RPT 3809 s1,'8RPT 3808 NT,'8RPT 505 VK,'8RPT 3802 NSW,'8RPT 3603 Vic,'8RPT 3805 SA,'8RPT 3806 WA,,,,,,,,,,,,,,,,,None,None,Last, 20, 8,
 Analog ACT,VK1RGI Ginnini,VK1RBM Issacs,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,None,None,Last, 20, 8,
-Analog Ade +DMR,VK5RAD Crafers,VK5RSB Sumrtn,VK5RSC MtTrble,VK5ROC LowrLght,VK5RSA Adelaide,VK5ZSN Balloon,VK5RLZ Elizabht,'5RSF 3808 NT,'5RSF 3809 s1,'5RSF 13 WWE,'5RSF 8 s1,'5RSF 3810 s1,'5RSF 9 s1,'5RSF 505 AU,'5RSF 3806 WA,'5RSF 3805 SA,,,,,,,,,,,,,,,,None,None,Last, 20, 8,
+Analog Ade +DMR,VK5RAD Crafers,VK5RSB Sumrtn,VK5RSC MtTrble,VK5ROC LowrLght,VK5RSA Adelaide,VK5RLZ Elizabht,'5RSF 3808 NT,'5RSF 3809 s1,'5RSF 13 WWE,'5RSF 8 s1,'5RSF 3810 s1,'5RSF 9 s1,'5RSF 505 AU,'5RSF 3806 WA,'5RSF 3805 SA,,,,,,,,,,,,,,,,,None,None,Last, 20, 8,
 Analog NE Vic,VK3RAY Albury,VK3RNE BigBen,VK3RNU Wang,VK2RWB Mulwala,VK3RSU ChsnVale,,,,,,,,,,,,,,,,,,,,,,,,,,,None,None,Last, 20, 8,
 Analog Syd,VK2RBV Sydney,VK2RMB TerryHill,VK2RWS BerowraNt,VK2RHT Chatswood,VK2RBM Lawson1,VK2RLE Engadine,VK2RCF Carlingfd,VK2RRS Lewisham,VK2RWI Dural,VK2RHC Hurstvill,VK2ROT Paddingtn,VK2RWI Dural1,VK2RFG Cambltwn,,,,,,,,,,,,,,,,,,,None,None,Last, 20, 8,
 Goulbn,DVm 50599,DMR 439.2 S1,FM 438.7 Simplex,VK2RHR HRange,VK2RGN MtGray,,,,,,,,,,,,,,,,,,,,,,,,,,,None,None,Last, 2, 3,
