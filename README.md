@@ -34,9 +34,9 @@ Duplex boards need a receive and transmit frequency which, like repeaters, need 
 Data from these codeplugs may be used in other radio models using translation available in codeplug tools such as N0GSG's Contact Manager, Farnworth's editcp, or GB3GF CSV tools.
 
 <b>Editing Codeplugs</b>
-All editing was conducted with G6AMU's DMR Codeplug Editor, and also uploaded to test transceivers using the same tool. The latest version is available from https://g7rvh.com/tyt-md-380/codeplug-editor/
+All editing was conducted with G6AMU's DMR Codeplug Editor, and also uploaded to test transceivers using the same tool. The latest version is available from http://www.miklor.com/DMR/DMR-380-CPEditor.php 
 
-Dale Farnworth's editcp was used to parse the codeplugs to identify invalid fields and cleanup. This is a very versatile codeplug editor which can also be used to translate codeplug formats for other devices. Linux and Windows versions aeavailable. It is available at: https://www.farnsworth.org/dale/codeplug/
+Dale Farnworth's editcp was used to parse the codeplugs to identify invalid fields and cleanup. This is a very versatile codeplug editor which can also be used to translate codeplug formats for other devices. Linux and Windows versions aeavailable. It is available at: http://github.com/dalefarnsworth/codeplug
 
 N0GSG's DMR Contact Manager is another codeplug editor worthy of consideration, with support for a very wide range of radios. It is available at: http://n0gsg.com/contact-manager/
 
